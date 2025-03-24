@@ -8008,8 +8008,8 @@ const Ea = {
     en: {
       nav: {
         home: 'Home',
-        about: 'About',
-        contact: 'Contact',
+        // about: 'About',
+        // contact: 'Contact',
         language: 'Language',
       },
       footer: {
@@ -8054,8 +8054,8 @@ const Ea = {
     vi: {
       nav: {
         home: 'Trang chủ',
-        about: 'Giới thiệu',
-        contact: 'Liên hệ',
+        // about: 'Giới thiệu',
+        // contact: 'Liên hệ',
         language: 'Ngôn ngữ',
       },
       footer: {
@@ -8103,8 +8103,8 @@ const Ea = {
     zh: {
       nav: {
         home: '首页',
-        about: '关于我们',
-        contact: '联系我们',
+        // about: '关于我们',
+        // contact: '联系我们',
         language: '语言',
       },
       footer: {
@@ -8202,8 +8202,8 @@ const Lh = '/images/icon.png',
   Oh = { href: '/', class: 'navbar-logo' },
   Nh = ['alt'],
   Ah = { href: '/', class: 'navbar-link' },
-  Rh = { href: '/about', class: 'navbar-link' },
-  Ih = { href: '/contact', class: 'navbar-link' },
+  // Rh = { href: '/about', class: 'navbar-link' },
+  // Ih = { href: '/contact', class: 'navbar-link' },
   Ph = { class: 'language-dropdown' },
   xh = ['value'];
 function Fh(e, t, n, r, s, o) {
@@ -8233,15 +8233,15 @@ function Fh(e, t, n, r, s, o) {
         { class: Lr(['navbar-links', { active: r.isMenuActive }]) },
         [
           H('a', Ah, ee(e.$t('nav.home')), 1),
-          H('a', Rh, ee(e.$t('nav.about')), 1),
-          H('a', Ih, ee(e.$t('nav.contact')), 1),
-          t[3] ||
-            (t[3] = H(
-              'a',
-              { href: '/pc-tools', class: 'navbar-button' },
-              'PC Tools',
-              -1
-            )),
+          // H('a', Rh, ee(e.$t('nav.about')), 1),
+          // H('a', Ih, ee(e.$t('nav.contact')), 1),
+          // t[3] ||
+          //   (t[3] = H(
+          //     'a',
+          //     { href: '/pc-tools', class: 'navbar-button' },
+          //     'PC Tools',
+          //     -1
+          //   )),
           H('div', Ph, [
             nn(
               H(
