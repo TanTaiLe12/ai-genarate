@@ -8013,7 +8013,7 @@ const Ea = {
         language: 'Language',
       },
       footer: {
-        copyright: 'Donate Bank MB Bank - 08026678222000',
+        copyright: 'Donate Bank MB Bank - 39186868888',
         privacy: 'Privacy Policy',
         terms: 'Terms of Service',
         contact: 'Contact Us',
@@ -8059,7 +8059,7 @@ const Ea = {
         language: 'Ngôn ngữ',
       },
       footer: {
-        copyright: 'Donate Bank MB Bank - 08026678222000',
+        copyright: 'Donate Bank MB Bank - 39186868888',
         privacy: 'Chính sách bảo mật',
         terms: 'Điều khoản dịch vụ',
         contact: 'Liên hệ',
@@ -8108,7 +8108,7 @@ const Ea = {
         language: '语言',
       },
       footer: {
-        copyright: 'Donate Bank MB Bank - 08026678222000',
+        copyright: 'Donate Bank MB Bank - 39186868888',
         privacy: '隐私政策',
         terms: '服务条款',
         contact: '联系我们',
@@ -8322,7 +8322,7 @@ function Kh(e, t, n, r, s, o) {
           H('img', {
             width: '50',
             height: '50',
-            src: 'https://img.vietqr.io/image/MB-08026678222000-compact.png',
+            src: 'https://img.vietqr.io/image/MB-39186868888-compact.png',
             alt: 'ủng hộ tác giả',
             onClick:
               t[0] ||
@@ -8355,7 +8355,7 @@ function Kh(e, t, n, r, s, o) {
                   (t[3] = H(
                     'img',
                     {
-                      src: 'https://img.vietqr.io/image/MB-08026678222000-compact.png',
+                      src: 'https://img.vietqr.io/image/MB-39186868888-compact.png',
                       alt: 'ủng hộ tác giả',
                       class: 'qr-fullscreen-image',
                     },
